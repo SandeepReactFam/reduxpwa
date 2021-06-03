@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reduxpwa/static/css/main.dac1048a.chunk.css",
+    "main.js": "/reduxpwa/static/js/main.ab73ecab.chunk.js",
+    "main.js.map": "/reduxpwa/static/js/main.ab73ecab.chunk.js.map",
+    "runtime-main.js": "/reduxpwa/static/js/runtime-main.6abb34db.js",
+    "runtime-main.js.map": "/reduxpwa/static/js/runtime-main.6abb34db.js.map",
+    "static/js/2.d465751d.chunk.js": "/reduxpwa/static/js/2.d465751d.chunk.js",
+    "static/js/2.d465751d.chunk.js.map": "/reduxpwa/static/js/2.d465751d.chunk.js.map",
+    "static/js/3.08ca9017.chunk.js": "/reduxpwa/static/js/3.08ca9017.chunk.js",
+    "static/js/3.08ca9017.chunk.js.map": "/reduxpwa/static/js/3.08ca9017.chunk.js.map",
+    "index.html": "/reduxpwa/index.html",
+    "static/css/main.dac1048a.chunk.css.map": "/reduxpwa/static/css/main.dac1048a.chunk.css.map",
+    "static/js/2.d465751d.chunk.js.LICENSE.txt": "/reduxpwa/static/js/2.d465751d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6abb34db.js",
+    "static/js/2.d465751d.chunk.js",
+    "static/css/main.dac1048a.chunk.css",
+    "static/js/main.ab73ecab.chunk.js"
+  ]
+}
